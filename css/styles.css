@@ -51,3 +51,7 @@ h1 {
 .contactMe{
     background-color: #A9B8CB;
 }
+
+.icon:hover{
+    background-color: #FAF9FA;
+}
