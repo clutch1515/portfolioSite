@@ -1,6 +1,8 @@
 
 header{
     background-color:  #95ADBC;
+    padding-top: 25px;
+    padding-bottom: 25px;
     
 }
 
@@ -37,21 +39,33 @@ h1 {
 }
 
 .welcome{
-    background-color: #9898A6;
+    background-color: #9898a6;
+    padding-top: 20px;
+    padding-bottom: 50px;
 }
 
 .projects{
     background-color: #A9B8CB;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .aboutMe{
     background-color: #9898A6;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .contactMe{
     background-color: #A9B8CB;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .icon:hover{
     background-color: #FAF9FA;
+}
+
+.lang {
+    margin-right: 25px;
 }
