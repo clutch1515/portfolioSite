@@ -1,8 +1,8 @@
 
 header{
     background-color:  #95ADBC;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     
 }
 
@@ -72,4 +72,8 @@ h1 {
 
 .lang {
     margin-right: 25px;
+}
+
+.goButton {
+    padding: 5px;
 }
